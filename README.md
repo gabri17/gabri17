@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabri17
 - 🌱 I’m currently learning C++ and Java.
-- 📫 How to reach me: donazgabri@gmail.com
+- 📫 How to reach me: gitgabriele@gmail.com
 
 <!---
 gabri17/gabri17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
