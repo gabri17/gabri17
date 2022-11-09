@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabri17
-- 🌱 I’m currently learning C++ and Java.
+- 🌱 I’m currently learning C++, Java, JavaScript e MySQL.
 - 📫 How to reach me: gitgabriele@gmail.com
 
 <!---
