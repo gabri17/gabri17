@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabri17
-- 🌱 I’m currently learning more about Machine Learning and software developing.
+- 🌱 I’m currently involved in Computer Science Master course, deeping into Data Science.
 - ✔️ Knowledges in networking, database and other programming languages such as C, C++, Java, JavaScript, PolyML, R and MySQL.
 - 🧗‍♂️ Practicing Spring and Angular frameworks, databases such as MySQL and PostgreSQL.
 - 📖 Interested in web programming, software developing and data science.
