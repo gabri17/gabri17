@@ -4,7 +4,7 @@
 - 🧳 Few experience in web programming as full stack developer.
 - 🧗‍♂️ Practicing Spring and Angular frameworks, databases such as MySQL and PostgreSQL.
 - 📖 Interested in web programming, software developing and data science.
-- 👍🏻 Familiar with Linux environment.
+- 👍🏻 Familiar with Linux and Windows environment.
 - 📫 How to reach me: gitgabriele@gmail.com
 
 <!---
