@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabri17
 - 🌱 I’m currently involved in Computer Science Master course, deeping into Data Science.
 - ✔️ Knowledges in networking, database and programming languages such as C, C++, Java, JavaScript, Python, PolyML, R and MySQL.
-- 🧳 Few experience in web programming as full stack developer.
+- 🧳 1 year experience in web programming as full stack developer.
 - 🧗‍♂️ Working with Spring and Angular frameworks and databases such as MySQL and PostgreSQL.
 - 📖 Interested in web programming, software developing and data science.
 - 👍🏻 Familiar with Linux and Windows environment.
