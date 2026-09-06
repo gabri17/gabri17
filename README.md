@@ -5,7 +5,7 @@
 - 🧗‍♂️ Working with Spring and Angular frameworks and databases such as MySQL and PostgreSQL.
 - 📖 Interested in web programming, software developing and data science.
 - 👍🏻 Familiar with Linux and Windows environment.
-- 📫 How to reach me: gitgabriele@gmail.com
+- 📫 How to reach me: gabrielevolani02@gmail.com
 
 <!---
 gabri17/gabri17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
